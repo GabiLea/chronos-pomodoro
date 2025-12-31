@@ -9,7 +9,6 @@ type MainTemplatePropos = {
 }
 
 export function MainTemplate({ children }: MainTemplatePropos) {
-  console.log('main template component')
   return (
     <>
       <Container>
