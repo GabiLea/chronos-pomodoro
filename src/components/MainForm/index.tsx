@@ -3,8 +3,6 @@ import { DefaultButton } from '../DefaultButton'
 import { Cycles } from '../Cycles'
 import { DefaultInput } from '../DefaultInput'
 
-// import styles from './styles.module.css'
-
 export function MainForm() {
 	return (
 		<form className='form' action=''>
